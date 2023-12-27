@@ -1,3 +1,4 @@
+
 INSERT INTO Orders (OrderID, CustomerID, EmployeeID, OrderDate, ShipperID)
 VALUES
     (10248, 90, 5, '1996-07-04', 3),

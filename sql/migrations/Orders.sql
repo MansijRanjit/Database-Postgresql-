@@ -6,3 +6,5 @@ CREATE TABLE Orders(
 	ShipperID INT CONSTRAINT sid REFERENCES Shippers(ShipperID)
 )
 select * from orders
+
+drop table orders

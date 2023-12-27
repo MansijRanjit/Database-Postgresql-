@@ -6,3 +6,5 @@ CREATE TABLE OrderDetails(
 )
 
 SELECT * FROM OrderDetails;
+
+drop table OrderDetails;

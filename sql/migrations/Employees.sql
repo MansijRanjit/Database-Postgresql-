@@ -6,3 +6,6 @@ CREATE TABLE Employees(
 	Photo varchar(50),
 	Notes varchar(600)
 );
+select * from employees
+
+drop table employees

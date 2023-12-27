@@ -1,3 +1,4 @@
+
 INSERT INTO OrderDetails (OrderID, ProductID, Quantity) VALUES
     (10248, 11, 12),
     (10248, 42, 10),
